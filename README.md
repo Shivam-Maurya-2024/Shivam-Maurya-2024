@@ -91,7 +91,7 @@
 
 
 
-<p><img align="left"
+<p><img align="centre"
             src="https://github-readme-stats.vercel.app/api/top-langs?username=shivam-maurya-2024&show_icons=true&locale=en&layout=compact"
             alt="shivam-maurya-2024" /></p>
 
