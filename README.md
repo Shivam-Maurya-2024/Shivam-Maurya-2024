@@ -91,7 +91,7 @@
 
 
 
-    <p><img align="left"
+<p><img align="left"
             src="https://github-readme-stats.vercel.app/api/top-langs?username=shivam-maurya-2024&show_icons=true&locale=en&layout=compact"
             alt="shivam-maurya-2024" /></p>
 
@@ -99,7 +99,7 @@
             src="https://github-readme-stats.vercel.app/api?username=shivam-maurya-2024&show_icons=true&locale=en"
             alt="shivam-maurya-2024" /></p>
 
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivam-maurya-2024&"
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivam-maurya-2024&"
             alt="shivam-maurya-2024" /></p>
 
 
